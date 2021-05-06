@@ -687,7 +687,7 @@ input[type="file"] {
 		right: 0;
 	}
 	.header .top-menu {
-		position: relative;
+		position: fixed;
 		margin-top: -4px;
 		max-width: 100%;
 		display: flex;
