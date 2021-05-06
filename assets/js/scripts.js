@@ -619,10 +619,10 @@ function handleWhatsappShare() {
 
 	} else {
 
-		const message = country_code + window.location.href
+		const message = window.location.href
 
 
-		const link = getLinkWhastapp(value, message)
+		const link = getLinkWhastapp(country_code + value, message)
 
 		window.open(link)
 
