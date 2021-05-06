@@ -669,7 +669,7 @@ input[type="file"] {
 		position: fixed;
 		left: 0;
 		right: 0;
-		top: calc(100vh - 69px);
+		top: calc(100vh - 132px);
 		width: auto;
 		height: 64px;
 		max-width: 100%;
